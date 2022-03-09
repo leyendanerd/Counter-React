@@ -11,11 +11,9 @@ class Counter extends React.Component {
     };
   }
 
-  
-
   render() {
     return (
-      <div>
+      <div >
         <div className="form-floating m-3">
           <input
             type="number"
