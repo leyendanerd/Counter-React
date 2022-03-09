@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: white;
+  background-image: url("time.svg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right bottom;
 }
 
 code {
